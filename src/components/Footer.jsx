@@ -27,6 +27,7 @@ function Footer() {
                 &copy; 2024 Your Company. All rights reserved.
               </p>
               <p className="text-sm">Supportive Partner ❤️ Prashant</p>
+              <p className="text-sm">Supportive Partner ❤️ Vikram</p>
             </div>
           </div>
         </div>
