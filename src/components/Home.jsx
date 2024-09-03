@@ -39,11 +39,9 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+              Hello, I'm Abhimanyu, a passionate Web developer with a keen eye for FULLSTACK
+          . With a background in IT, I strive to create impactful and
+          visually stunning Software solutions that leave a lasting impression.
             </p>
             <br />
             {/* social media icons */}
