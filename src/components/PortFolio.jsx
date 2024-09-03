@@ -35,7 +35,7 @@ function PortFolio() {
     {
       id: 6,
       logo: springBoot,
-      name: "SprinBboot",
+      name: "SpringBoot",
     },
   ];
   return (
