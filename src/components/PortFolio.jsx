@@ -12,8 +12,8 @@ function PortFolio() {
       id: 1,
       logo: java,
       name: "Java",
-      projectLink: "https://example.com/java-project", // Replace with actual project URL
-      sourceCodeLink: "https://github.com/username/java-repo", // Replace with actual source code URL
+      projectLink: "https://github.com/Abhima9523/Core-Java",
+      sourceCodeLink: "https://github.com/Abhima9523/Core-Java",
     },
     {
       id: 2,
